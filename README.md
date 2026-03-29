@@ -17,7 +17,8 @@ I designed this project to learn how to use Onshape for CAD modeling, specifical
 ![](<Assets/Screenshot 2026-03-30 at 3.26.32 AM.png>)
 ![](<Assets/Screenshot 2026-03-30 at 3.26.55 AM.png>)
 
-## BOM :
-| S.no. | Part Name | Link | Price | 
-| 1 | Bambu Lab Mouse Kit | <a>https://us.store.bambulab.com/products/wireless-mouse-components-kit-002</a> | $13 |
-| 2 | Custom Case         | n/a | ~$3 (varies)
+### Bill of Material
+| Name                                                          | Qty | Price in USD | Link                                                                             |
+| ------------------------------------------------------------- | --- | ------------ | -------------------------------------------------------------------------------- |
+| Bambu Lab Mouse Kit                                           |  1  |      13      | [here](https://us.store.bambulab.com/products/wireless-mouse-components-kit-002) |
+| 3d Prints                                                     |  1  |      N/A     | PRINT LEGION                                                                     |
