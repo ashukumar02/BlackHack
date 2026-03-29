@@ -21,4 +21,4 @@ I designed this project to learn how to use Onshape for CAD modeling, specifical
 | Name                                                          | Qty | Price in USD | Link                                                                             |
 | ------------------------------------------------------------- | --- | ------------ | -------------------------------------------------------------------------------- |
 | Bambu Lab Mouse Kit                                           |  1  |      13      | [here](https://us.store.bambulab.com/products/wireless-mouse-components-kit-002) |
-| 3d Prints                                                     |  1  |      N/A     | PRINT LEGION                                                                     |
+| Custom Case                                                   |  1  |      N/A     | Varies                                                                           |
