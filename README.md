@@ -4,7 +4,7 @@ A custom mouse case with holes for buttons, scroll wheel, screw holes and custom
 
 ## Images
 
-![](Assets/Screenshot%202026-03-30%20at%203.25.45.20AM.png)
-![](Assets/Screenshot%202026-03-30%20at%203.25.58.20AM.png)
-![](Assets/Screenshot%202026-03-30%20at%203.26.32.20AM.png)
-![](Assets/Screenshot%202026-03-30%20at%203.26.55.20AM.png)
+![](<Assets/Screenshot 2026-03-30 at 3.25.58 AM.png>)
+![](<Assets/Screenshot 2026-03-30 at 3.25.45 AM.png>)
+![](<Assets/Screenshot 2026-03-30 at 3.26.32 AM.png>)
+![](<Assets/Screenshot 2026-03-30 at 3.26.55 AM.png>)
