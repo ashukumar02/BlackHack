@@ -1,4 +1,4 @@
-# Custom Bambu Lab Wireless Mouse
+# BlackHack
 
 A custom 3D-printable mouse shell designed specifically for the official Bambu Lab Wireless Mouse Components Kit.
 
