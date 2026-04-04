@@ -11,7 +11,7 @@ I designed this project to learn how to use Onshape for CAD modeling, specifical
 3. Align the screw holes and tighten the screws to secure the board inside.
 
 ## CAD :
-Link to OnShape : [Link](https://cad.onshape.com/documents/fab1093c0a2b3f66fe2d984a/w/ee85db48abfe7bfdde32cb63/e/e63b557c1c52132979e4b147?renderMode=0&uiState=69d11e018b18b77c8cbcb27a)
+Link to OnShape : [Link](https://cad.onshape.com/documents/fab1093c0a2b3f66fe2d984a/w/ee85db48abfe7bfdde32cb63/e/e63b557c1c52132979e4b147?renderMode=0&uiState=69d11e768b18b77c8cbcb51b)
 
 ## Images
 
